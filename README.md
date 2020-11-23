@@ -1,12 +1,13 @@
-#Area and Perimeter finder
+# Area and Perimeter finder
 
-###to find area of a figure use /area 
+### to find area of a figure use /area 
 examples: 
 * /area?r=3,
 * /area?a=3, 
 * /area?a=3&b=5,
 * /area?a=3&b=3&c=5 
-###to fid perimeter of figure use /perimeter 
+
+### to fid perimeter of figure use /perimeter 
 examples:
 * /perimeter?r=3,
 * /perimeter?a=3,
