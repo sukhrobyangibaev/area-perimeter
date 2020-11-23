@@ -7,7 +7,7 @@ examples:
 * /area?a=3&b=5,
 * /area?a=3&b=3&c=5 
 
-### to fid perimeter of figure use /perimeter 
+### to find perimeter of a figure use /perimeter 
 examples:
 * /perimeter?r=3,
 * /perimeter?a=3,
